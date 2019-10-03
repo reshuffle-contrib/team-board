@@ -1,12 +1,8 @@
-[![CircleCI](https://circleci.com/gh/reshufflehq/blank.svg?style=svg)](https://circleci.com/gh/reshufflehq/blank)
-
-This is a [Reshuffle](https://reshuffle.com/) template.
-
 ## About
 
-A starting point for creating your app with Reshuffle.
+Team board management with Drag-and-drop functionality
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project was inspired from https://github.com/web-pal/react-trello-board.
 
 ## Screenshots
 
